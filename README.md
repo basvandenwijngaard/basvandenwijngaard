@@ -17,7 +17,7 @@ __No,__ of course not. I’m also not a code-ninja or [HTML assassin](https://vi
 
 .
 
-[Online Superheld](https://onlinesuperheld.nl/) ([en](https://onlinesuperheld.nl/en/))
+[onlinesuperhero.dev](https://onlinesuperhero.dev/) (en) - [onlinesuperheld.nl](https://onlinesuperheld.nl/) (nl)
 
 
 <!--
